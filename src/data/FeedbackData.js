@@ -2,7 +2,7 @@ const FeedbackData = [
     {
         id:1,
         rating:10,
-        text:'agsjdgjagsdja',
+        text:'ASFDuUYAFuyFkyjuSFsuyfljSBFousgfljsbgfojh',
     },
     {
         id:2,
@@ -16,3 +16,5 @@ const FeedbackData = [
     }
 
 ]
+
+export default FeedbackData

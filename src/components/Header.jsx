@@ -9,7 +9,7 @@ function Header({text,bgColor,textColor}) {
     <header style={headerStyles}>
         <div className="contanier">
             <h2>{text}</h2>
-           <h3>hello me</h3>
+           
         </div>
       
     </header>
